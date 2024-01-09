@@ -41,4 +41,4 @@ python3 Hang_man.py
 ## 기타
 resource 폴더의 word_list.csv 파일에서 추가할 수 있다.
 
-windows를 사용할 경우 Hang_man.py에서 사운드를 winplay로 수정하면 사용할 수 있다.
+windows를 사용할 경우 Hang_man.py에서 사운드를 winsound로 수정하면 사용할 수 있다.
