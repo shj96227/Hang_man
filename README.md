@@ -12,9 +12,7 @@
 
 ## Dependencies
 
-python3 를 사용하며
-
-운영 체제는 우분투이다.
+[python3](https://phoenixnap.com/kb/how-to-install-python-3-ubuntu) 를 사용하며 운영 체제는 우분투이다.
 
 ## Getting Started
 ### 1. Clone
